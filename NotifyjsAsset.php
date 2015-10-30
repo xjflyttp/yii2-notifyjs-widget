@@ -1,6 +1,6 @@
 <?php
 
-namespace xj\notifyjs\themes;
+namespace xj\notifyjs;
 
 use yii\web\AssetBundle;
 

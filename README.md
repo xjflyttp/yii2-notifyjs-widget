@@ -1,6 +1,7 @@
 # yii2-notifyjs-widget
 ```
 http://notifyjs.com/
+https://github.com/notifyjs/notifyjs
 ```
 
 ### composer.json
